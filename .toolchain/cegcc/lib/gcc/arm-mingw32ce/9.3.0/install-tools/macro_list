@@ -1,0 +1,8 @@
+ARM
+UNDER_CE
+UNICODE
+WIN32
+WINNT
+_cdecl
+_fastcall
+_stdcall

@@ -1,8 +1,0 @@
-*.o
-*.exe
-ollama-ce-host
-json_test
-ollama-ce.ini
-.toolchain/
-*~
-*.bak

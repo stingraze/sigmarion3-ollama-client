@@ -1,7 +1,8 @@
 # Ollama Client for CE
 *Made with Cursor, so some of the README might be wrong.
 
-Native Windows CE GUI client for [Ollama](https://ollama.com). Built with **CeGCC** (`arm-mingw32ce-gcc`). Aimed at Handheld PC 2000+ devices such as the **NEC Sigmarion III** (640×480, Windows CE 4.1).
+Native Windows CE GUI client for [Ollama](https://ollama.com). Built with **CeGCC** (`arm-mingw32ce-gcc`). 
+Aimed at Handheld PC 2000 and newer devices such as the **NEC Sigmarion III** (640×480, Windows CE 4.1).
 
 ## Features
 
